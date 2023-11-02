@@ -1,0 +1,191 @@
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\InvoiceDemo.dll.config
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\InvoiceDemo.dll
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\InvoiceDemo.pdb
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\WebGrease.dll
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\obj\Debug\InvoiceDemo.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\obj\Debug\InvoiceDemo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\obj\Debug\InvoiceDemo.csproj.CopyComplete
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\obj\Debug\InvoiceDemo.dll
+C:\Users\Admin\Desktop\Demo\InvoiceDemo\obj\Debug\InvoiceDemo.pdb
+E:\Khushi\My Documents\Docs\Demo\Demo\InvoiceDemo\bin\InvoiceDemo.dll.config
+E:\Khushi\My Documents\Docs\Demo\Demo\InvoiceDemo\bin\InvoiceDemo.dll
+E:\Khushi\My Documents\Docs\Demo\Demo\InvoiceDemo\bin\InvoiceDemo.pdb
+E:\Khushi\My Documents\Docs\Demo\Demo\InvoiceDemo\bin\roslyn\csc.exe
+E:\Khushi\My Documents\Docs\Demo\Demo\InvoiceDemo\bin\roslyn\csc.exe.config
+E:\Khushi\My Documents\Docs\Demo\Demo\InvoiceDemo\bin\roslyn\csc.rsp
+E:\Khushi\My Documents\Docs\Demo\Demo\InvoiceDemo\bin\roslyn\csi.exe
+E:\Khushi\My Documents\Docs\Demo\Demo\InvoiceDemo\bin\roslyn\csi.exe.config
+E:\Khushi\My Documents\Docs\Demo\Demo\InvoiceDemo\bin\roslyn\csi.rsp
+E:\Khushi\My Documents\Docs\Demo\Demo\InvoiceDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Khushi\My Documents\Docs\Demo\Demo\InvoiceDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Khushi\My Documents\Docs\Demo\Demo\InvoiceDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Khushi\My Documents\Docs\Demo\Demo\InvoiceDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Khushi\My Documents\Docs\Demo\Demo\InvoiceDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Khushi\My Documents\Docs\Demo\Demo\InvoiceDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Khushi\My Documents\Docs\Demo\Demo\InvoiceDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Khushi\My Documents\Docs\Demo\Demo\InvoiceDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Khushi\My Documents\Docs\Demo\Demo\InvoiceDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Khushi\My Documents\Docs\Demo\Demo\InvoiceDemo\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Khushi\My Documents\Docs\Demo\Demo\InvoiceDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Khushi\My Documents\Docs\Demo\Demo\InvoiceDemo\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Khushi\My Documents\Docs\Demo\Demo\InvoiceDemo\bin\roslyn\System.AppContext.dll
+E:\Khushi\My Documents\Docs\Demo\Demo\InvoiceDemo\bin\roslyn\System.Collections.Immutable.dll
+E:\Khushi\My Documents\Docs\Demo\Demo\InvoiceDemo\bin\roslyn\System.Console.dll
+E:\Khushi\My Documents\Docs\Demo\Demo\InvoiceDemo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Khushi\My Documents\Docs\Demo\Demo\InvoiceDemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Khushi\My Documents\Docs\Demo\Demo\InvoiceDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Khushi\My Documents\Docs\Demo\Demo\InvoiceDemo\bin\roslyn\System.Globalization.Calendars.dll
+E:\Khushi\My Documents\Docs\Demo\Demo\InvoiceDemo\bin\roslyn\System.IO.Compression.dll
+E:\Khushi\My Documents\Docs\Demo\Demo\InvoiceDemo\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Khushi\My Documents\Docs\Demo\Demo\InvoiceDemo\bin\roslyn\System.IO.FileSystem.dll
+E:\Khushi\My Documents\Docs\Demo\Demo\InvoiceDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Khushi\My Documents\Docs\Demo\Demo\InvoiceDemo\bin\roslyn\System.Net.Sockets.dll
+E:\Khushi\My Documents\Docs\Demo\Demo\InvoiceDemo\bin\roslyn\System.Reflection.Metadata.dll
+E:\Khushi\My Documents\Docs\Demo\Demo\InvoiceDemo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Khushi\My Documents\Docs\Demo\Demo\InvoiceDemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Khushi\My Documents\Docs\Demo\Demo\InvoiceDemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Khushi\My Documents\Docs\Demo\Demo\InvoiceDemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Khushi\My Documents\Docs\Demo\Demo\InvoiceDemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Khushi\My Documents\Docs\Demo\Demo\InvoiceDemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Khushi\My Documents\Docs\Demo\Demo\InvoiceDemo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Khushi\My Documents\Docs\Demo\Demo\InvoiceDemo\bin\roslyn\System.ValueTuple.dll
+E:\Khushi\My Documents\Docs\Demo\Demo\InvoiceDemo\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Khushi\My Documents\Docs\Demo\Demo\InvoiceDemo\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Khushi\My Documents\Docs\Demo\Demo\InvoiceDemo\bin\roslyn\System.Xml.XPath.dll
+E:\Khushi\My Documents\Docs\Demo\Demo\InvoiceDemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Khushi\My Documents\Docs\Demo\Demo\InvoiceDemo\bin\roslyn\vbc.exe
+E:\Khushi\My Documents\Docs\Demo\Demo\InvoiceDemo\bin\roslyn\vbc.exe.config
+E:\Khushi\My Documents\Docs\Demo\Demo\InvoiceDemo\bin\roslyn\vbc.rsp
+E:\Khushi\My Documents\Docs\Demo\Demo\InvoiceDemo\bin\roslyn\VBCSCompiler.exe
+E:\Khushi\My Documents\Docs\Demo\Demo\InvoiceDemo\bin\roslyn\VBCSCompiler.exe.config
+E:\Khushi\My Documents\Docs\Demo\Demo\InvoiceDemo\obj\Debug\InvoiceDemo.csproj.AssemblyReference.cache
+E:\Khushi\My Documents\Docs\Demo\Demo\InvoiceDemo\obj\Debug\InvoiceDemo.csproj.CoreCompileInputs.cache
+E:\Khushi\My Documents\Docs\Demo\Demo\InvoiceDemo\obj\Debug\InvoiceDemo.csproj.CopyComplete
+E:\Khushi\My Documents\Docs\Demo\Demo\InvoiceDemo\obj\Debug\InvoiceDemo.dll
+E:\Khushi\My Documents\Docs\Demo\Demo\InvoiceDemo\obj\Debug\InvoiceDemo.pdb
+C:\Users\EUDS706\Downloads\Mail\Mail\Demo\InvoiceDemo\bin\InvoiceDemo.dll.config
+C:\Users\EUDS706\Downloads\Mail\Mail\Demo\InvoiceDemo\bin\InvoiceDemo.dll
+C:\Users\EUDS706\Downloads\Mail\Mail\Demo\InvoiceDemo\bin\InvoiceDemo.pdb
+C:\Users\EUDS706\Downloads\Mail\Mail\Demo\InvoiceDemo\bin\roslyn\csc.exe
+C:\Users\EUDS706\Downloads\Mail\Mail\Demo\InvoiceDemo\bin\roslyn\csc.exe.config
+C:\Users\EUDS706\Downloads\Mail\Mail\Demo\InvoiceDemo\bin\roslyn\csc.rsp
+C:\Users\EUDS706\Downloads\Mail\Mail\Demo\InvoiceDemo\bin\roslyn\csi.exe
+C:\Users\EUDS706\Downloads\Mail\Mail\Demo\InvoiceDemo\bin\roslyn\csi.exe.config
+C:\Users\EUDS706\Downloads\Mail\Mail\Demo\InvoiceDemo\bin\roslyn\csi.rsp
+C:\Users\EUDS706\Downloads\Mail\Mail\Demo\InvoiceDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\EUDS706\Downloads\Mail\Mail\Demo\InvoiceDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\EUDS706\Downloads\Mail\Mail\Demo\InvoiceDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\EUDS706\Downloads\Mail\Mail\Demo\InvoiceDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\EUDS706\Downloads\Mail\Mail\Demo\InvoiceDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\EUDS706\Downloads\Mail\Mail\Demo\InvoiceDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\EUDS706\Downloads\Mail\Mail\Demo\InvoiceDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\EUDS706\Downloads\Mail\Mail\Demo\InvoiceDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\EUDS706\Downloads\Mail\Mail\Demo\InvoiceDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\EUDS706\Downloads\Mail\Mail\Demo\InvoiceDemo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\EUDS706\Downloads\Mail\Mail\Demo\InvoiceDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\EUDS706\Downloads\Mail\Mail\Demo\InvoiceDemo\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\EUDS706\Downloads\Mail\Mail\Demo\InvoiceDemo\bin\roslyn\System.AppContext.dll
+C:\Users\EUDS706\Downloads\Mail\Mail\Demo\InvoiceDemo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\EUDS706\Downloads\Mail\Mail\Demo\InvoiceDemo\bin\roslyn\System.Console.dll
+C:\Users\EUDS706\Downloads\Mail\Mail\Demo\InvoiceDemo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\EUDS706\Downloads\Mail\Mail\Demo\InvoiceDemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\EUDS706\Downloads\Mail\Mail\Demo\InvoiceDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\EUDS706\Downloads\Mail\Mail\Demo\InvoiceDemo\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\EUDS706\Downloads\Mail\Mail\Demo\InvoiceDemo\bin\roslyn\System.IO.Compression.dll
+C:\Users\EUDS706\Downloads\Mail\Mail\Demo\InvoiceDemo\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\EUDS706\Downloads\Mail\Mail\Demo\InvoiceDemo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\EUDS706\Downloads\Mail\Mail\Demo\InvoiceDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\EUDS706\Downloads\Mail\Mail\Demo\InvoiceDemo\bin\roslyn\System.Net.Sockets.dll
+C:\Users\EUDS706\Downloads\Mail\Mail\Demo\InvoiceDemo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\EUDS706\Downloads\Mail\Mail\Demo\InvoiceDemo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\EUDS706\Downloads\Mail\Mail\Demo\InvoiceDemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\EUDS706\Downloads\Mail\Mail\Demo\InvoiceDemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\EUDS706\Downloads\Mail\Mail\Demo\InvoiceDemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\EUDS706\Downloads\Mail\Mail\Demo\InvoiceDemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\EUDS706\Downloads\Mail\Mail\Demo\InvoiceDemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\EUDS706\Downloads\Mail\Mail\Demo\InvoiceDemo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\EUDS706\Downloads\Mail\Mail\Demo\InvoiceDemo\bin\roslyn\System.ValueTuple.dll
+C:\Users\EUDS706\Downloads\Mail\Mail\Demo\InvoiceDemo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\EUDS706\Downloads\Mail\Mail\Demo\InvoiceDemo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\EUDS706\Downloads\Mail\Mail\Demo\InvoiceDemo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\EUDS706\Downloads\Mail\Mail\Demo\InvoiceDemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\EUDS706\Downloads\Mail\Mail\Demo\InvoiceDemo\bin\roslyn\vbc.exe
+C:\Users\EUDS706\Downloads\Mail\Mail\Demo\InvoiceDemo\bin\roslyn\vbc.exe.config
+C:\Users\EUDS706\Downloads\Mail\Mail\Demo\InvoiceDemo\bin\roslyn\vbc.rsp
+C:\Users\EUDS706\Downloads\Mail\Mail\Demo\InvoiceDemo\bin\roslyn\VBCSCompiler.exe
+C:\Users\EUDS706\Downloads\Mail\Mail\Demo\InvoiceDemo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\EUDS706\Downloads\Mail\Mail\Demo\InvoiceDemo\obj\Debug\InvoiceDemo.csproj.AssemblyReference.cache
+C:\Users\EUDS706\Downloads\Mail\Mail\Demo\InvoiceDemo\obj\Debug\InvoiceDemo.csproj.CoreCompileInputs.cache
+C:\Users\EUDS706\Downloads\Mail\Mail\Demo\InvoiceDemo\obj\Debug\InvoiceDemo.csproj.CopyComplete
+C:\Users\EUDS706\Downloads\Mail\Mail\Demo\InvoiceDemo\obj\Debug\InvoiceDemo.dll
+C:\Users\EUDS706\Downloads\Mail\Mail\Demo\InvoiceDemo\obj\Debug\InvoiceDemo.pdb
